@@ -25,7 +25,7 @@ A Django-based web application to manage and view a catalog of movies. Users can
 2. **Create and activate a virtual environment:**
 
     ```bash
-    pipenv shell  # On Windows use `venv\Scripts\activate`
+    pipenv shell 
     ```
 
 
